@@ -22,11 +22,11 @@ class _SignUpState extends State<SignUp> {
               height: 300,
               width: 350,
             ),
-            SizedBox(
+            const SizedBox(
               height: 20,
               width: 20,
             ),
-            Text(
+            const Text(
               'Create Account',
               style: TextStyle(
                 fontSize: 30,
@@ -44,36 +44,36 @@ class _SignUpState extends State<SignUp> {
               child: Column(
                 children: [
                   TextFormField(
-                    decoration: InputDecoration(
+                    decoration: const InputDecoration(
                       icon: Icon(Icons.person),
                       hintText: 'Enter Your Full Name',
                       labelText: 'Full Name',
                     ),
                   ),
-                  SizedBox(
+                  const SizedBox(
                     height: 10,
                     width: 10,
                   ),
                   TextFormField(
-                    decoration: InputDecoration(
+                    decoration: const InputDecoration(
                       icon: Icon(Icons.email),
                       hintText: 'Enter Your Email/Username',
                       labelText: 'Email or Username',
                     ),
                   ),
-                  SizedBox(
+                  const SizedBox(
                     height: 10,
                     width: 10,
                   ),
                   TextFormField(
                     obscureText: true,
-                    decoration: InputDecoration(
+                    decoration: const InputDecoration(
                       icon: Icon(Icons.lock),
                       hintText: 'Enter Your Password',
                       labelText: 'Password',
                     ),
                   ),
-                  SizedBox(
+                  const SizedBox(
                     height: 10,
                     width: 10,
                   ),
@@ -120,7 +120,7 @@ class _SignUpState extends State<SignUp> {
                     ],
                     mainAxisAlignment: MainAxisAlignment.center,
                   ),
-                  Text(
+                  const Text(
                     'By signing up you agree to our terms, conditions and privacy Policy.',
                     style: TextStyle(
                       fontSize: 13,

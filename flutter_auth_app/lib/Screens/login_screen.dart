@@ -1,7 +1,5 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_auth_app/Screens/signup.dart';
 import 'package:flutter_auth_app/Utilities/routes.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -74,7 +72,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     ),
                     TextButton(
                       onPressed: () {
-                         Navigator.pushNamed(context, MyRoutes.forgotPassword);
+                        Navigator.pushNamed(context, MyRoutes.forgotPassword);
                       },
                       child: const Text(
                         'Forgot Password?',

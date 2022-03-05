@@ -20,11 +20,11 @@ class _ForgotPasswordState extends State<ForgotPassword> {
               'assets/images/forgot.png',
               fit: BoxFit.cover,
             ),
-            SizedBox(
+            const SizedBox(
               height: 35,
               width: 30,
             ),
-            Center(
+            const Center(
               child: Text(
                 'Send Reset Link to Email!',
                 style: TextStyle(
@@ -43,13 +43,13 @@ class _ForgotPasswordState extends State<ForgotPassword> {
               child: Column(
                 children: [
                   TextFormField(
-                    decoration: InputDecoration(
+                    decoration: const InputDecoration(
                       hintText: 'Enter Your Email',
                       labelText: 'Email',
                       border: OutlineInputBorder(),
                     ),
                   ),
-                  SizedBox(
+                  const SizedBox(
                     height: 10,
                     width: 10,
                   ),
@@ -76,7 +76,7 @@ class _ForgotPasswordState extends State<ForgotPassword> {
                       ),
                     ),
                   ),
-                  SizedBox(
+                  const SizedBox(
                     height: 10,
                     width: 10,
                   ),

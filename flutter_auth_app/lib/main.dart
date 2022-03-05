@@ -4,9 +4,8 @@ import 'package:flutter_auth_app/Screens/home_screen.dart';
 import 'package:flutter_auth_app/Screens/login_screen.dart';
 import 'package:flutter_auth_app/Screens/signup.dart';
 import 'package:flutter_auth_app/Utilities/routes.dart';
-import 'package:http/http.dart' as http;
 
-void main() => runApp(AuthApp());
+void main() => runApp(const AuthApp());
 
 class AuthApp extends StatelessWidget {
   const AuthApp({Key? key}) : super(key: key);
@@ -20,8 +19,8 @@ class AuthApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        MyRoutes.homeScreen: (context) => HomeScreen(),
-        MyRoutes.loginScreen: (context) => LoginScreen(),
+        MyRoutes.homeScreen: (context) =>  HomeScreen(),
+        MyRoutes.loginScreen: (context) =>  LoginScreen(),
         MyRoutes.signUp: (context) => SignUp(),
         MyRoutes.forgotPassword: (context) => ForgotPassword(),
       },
