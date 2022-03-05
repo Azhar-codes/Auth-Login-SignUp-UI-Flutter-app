@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter, Web**
 
-- 📫 How to reach me **Email: josefyaduvanshi@gmail.com **
+- 📫 How to reach me => Email: josefyaduvanshi@gmail.com 
 
 - 📄 Know about my experiences [Will update soon/](Will update soon/)
 
