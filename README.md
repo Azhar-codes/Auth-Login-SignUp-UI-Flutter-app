@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/josephyaduvanshi" target="blank"><img align="center" src="https://feathericons.com/6094d5c1-62f6-4950-b595-a728467bfd5b" alt="josephyaduvanshi" height="30" width="40" /></a>
+<a href="https://dev.to/josephyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=19293&format=png&size=96&name=icons8-code-96.png&fromSite=true&token=&color=000000" alt="josephyaduvanshi" height="30" width="40" /></a>
 <a href="https://twitter.com/josefyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=13963&format=svg&size=96&name=icons8-twitter.svg&fromSite=true&token=&color=000000" alt="josefyaduvanshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josephyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=98960&format=svg&size=240&name=icons8-linkedin.svg&fromSite=true&token=&color=000000" alt="josephyaduvanshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josephyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=21088&format=svg&size=160&name=icons8-linkedin.svg&fromSite=true&token=&color=000000" alt="josephyaduvanshi" height="30" width="40" /></a>
 <a href="https://instagram.com/joseph_yaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=32323&format=svg&size=240&name=icons8-instagram.svg&fromSite=true&token=&color=000000" alt="joseph_yaduvanshi" height="30" width="40" /></a>
 <a href="https://medium.com/@josefyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=111591&format=svg&size=250&name=icons8-medium-monogram.svg&fromSite=true&token=&color=000000" alt="@josefyaduvanshi" height="30" width="40" /></a>
 <a href="https://discord.gg/sylas0p#3692" target="blank"><img align="center" src="https://img.icons8.com/?id=alUj8grSk3RX&format=svg&size=240&name=icons8-discord.svg&fromSite=true&token=&color=000000" alt="sylas0p#3692" height="30" width="40" /></a>
